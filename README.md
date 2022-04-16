@@ -1,5 +1,6 @@
 # Blog-PHP-Y-MYSQL
-Es un Blog de Video Juegos con PHP Y MYSQL
+Es un Blog de Video Juegos con PHP Y MYSQL.
+
 Pueden visitar el video donde les enseño como funciona: 
 https://www.youtube.com/watch?v=u9zc8gcC_bw
 
